@@ -1,3 +1,3 @@
 # termbud
-Your own terminal buddy!
+Your terminal buddy!
 !!!Work in progress!!!
